@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/menu_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="HOME"/>
+
+        <item android:id="@+id/menu_post_job"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="POSTED JOBS"/>
+
+        <item android:id="@+id/menu_employer_profile"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="PROFILE"/>
+
+        <item android:id="@+id/menu_employer_about"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="ABOUT"/>
+
+        <item android:id="@+id/menu_employer_signout"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="LOGOUT" />
+    </group>
+
+
+</menu>

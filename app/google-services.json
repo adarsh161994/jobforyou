@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17315008066",
+    "project_id": "jobforyou-311409",
+    "storage_bucket": "jobforyou-311409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17315008066:android:0597565d839ce19a23e7db",
+        "android_client_info": {
+          "package_name": "com.efashtech.jobforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17315008066-5bj8k0hbp5go6bbhon9ltcoia33rmea1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.efashtech.jobforyou",
+            "certificate_hash": "1179bfbad1566969623f3469ae345ad987044f0d"
+          }
+        },
+        {
+          "client_id": "17315008066-kqas3vvqbpt5fsfe8jvfij5ul3aggogk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLxHgPBgpYK6kP258J-PdGWTk_wdZrpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17315008066-kqas3vvqbpt5fsfe8jvfij5ul3aggogk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
